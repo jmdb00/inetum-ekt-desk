@@ -15,11 +15,11 @@ import { TranslocoRootModule } from './transloco-root.module';
   ],
   imports: [
     BrowserModule,
-	BrowserAnimationsModule,
-	ClarityModule,
+	  BrowserAnimationsModule,
+	  ClarityModule,
     AppRoutingModule,
     HttpClientModule,
-	FormsModule,
+	  FormsModule,
     TranslocoRootModule
   ],
   providers: [],
